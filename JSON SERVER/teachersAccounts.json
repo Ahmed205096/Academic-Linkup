@@ -1,0 +1,253 @@
+{
+  "teachers": [
+    {
+      "id": "1",
+      "rule": "teacher",
+      "name": "Mohamed Ali",
+      "email": "mohamed_ali@gmail.com",
+      "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+      "user_bg_img": "https://i.stack.imgur.com/cEz3G.jpg",
+      "profile_views": 341,
+      "post_views": 357,
+      "recent": [
+        "Mohamed Ali"
+      ],
+      "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Embracing a positive mindset can have profound effects on your life. By focusing on the good in every situation, you can cultivate resilience and improve your mental health. Positivity can also enhance your relationships, as it fosters empathy and understanding. Furthermore, a positive attitude can boost your physical health by reducing stress and improving overall well-being. Practicing gratitude and mindfulness are powerful tools to help you maintain a positive outlook. Remember, positivity is not about ignoring challenges but facing them with optimism and confidence, leading to a happier and more fulfilling life.",
+      "friend_list": [
+        {
+          "id": "3",
+          "name": "Carlos Rodriguez",
+          "img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+          "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        },
+        {
+          "id": "2",
+          "name": "Sarah Johnson",
+          "img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+          "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        }
+      ],
+      "friend_requests": []
+    },
+    {
+      "id": "2",
+      "rule": "teacher",
+      "name": "Sarah Johnson",
+      "email": "sarah_johnson@gmail.com",
+      "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+      "user_bg_img": "https://static.vecteezy.com/system/resources/thumbnails/038/534/862/small/ai-generated-sunny-day-in-nature-blurred-spring-background-with-blooming-trees-and-blue-sky-photo.jpg",
+      "profile_views": 141,
+      "post_views": 83,
+      "recent": [
+        "Mohamed Ali",
+        "Mohamed Ali",
+        "Mohamed Ali",
+        "Mohamed Ali",
+        "Mohamed Ali",
+        "Sarah Johnson",
+        "Mohamed Ali",
+        "Mohamed Ali",
+        "Carlos Rodriguez"
+      ],
+      "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Embracing a positive mindset can have profound effects on your life. By focusing on the good in every situation, you can cultivate resilience and improve your mental health. Positivity can also enhance your relationships, as it fosters empathy and understanding. Furthermore, a positive attitude can boost your physical health by reducing stress and improving overall well-being. Practicing gratitude and mindfulness are powerful tools to help you maintain a positive outlook. Remember, positivity is not about ignoring challenges but facing them with optimism and confidence, leading to a happier and more fulfilling life.",
+      "friend_list": [
+        {
+          "id": "3",
+          "name": "Carlos Rodriguez",
+          "img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+          "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        },
+        {
+          "id": "4",
+          "name": "Michael Jackson",
+          "img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+          "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        },
+        {
+          "id": "1",
+          "name": "Mohamed Ali",
+          "img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+          "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        }
+      ],
+      "friend_requests": []
+    },
+    {
+      "id": "3",
+      "rule": "teacher",
+      "name": "Carlos Rodriguez",
+      "email": "carlos_rodriguez@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 334,
+      "post_views": 384,
+      "recent": [],
+      "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [
+        {
+          "id": "1",
+          "name": "Mohamed Ali",
+          "img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+          "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        },
+        {
+          "id": "2",
+          "name": "Sarah Johnson",
+          "img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+          "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        }
+      ],
+      "friend_requests": []
+    },
+    {
+      "id": "4",
+      "rule": "teacher",
+      "name": "Michael Jackson",
+      "email": "michel_jackson@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 341,
+      "post_views": 391,
+      "recent": [
+        "Sarah Johnson",
+        "Sarah Johnson",
+        "Sarah Johnson",
+        "Sarah Johnson",
+        "Sarah Johnson",
+        "Sarah Johnson",
+        "Sarah Johnson"
+      ],
+      "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [
+        {
+          "id": "2",
+          "name": "Sarah Johnson",
+          "img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+          "title": " Web Developer At Microsoft Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!"
+        }
+      ],
+      "friend_requests": []
+    },
+    {
+      "id": "5",
+      "rule": "teacher",
+      "name": "Ali Ayman",
+      "email": "ali_ayman@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/128/9408/9408175.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 346,
+      "post_views": 396,
+      "recent": [
+        "Sarah Johnson",
+        "Ahmed Mostafa",
+        "Sarah Johnson",
+        "Ali Ayman",
+        "El-Sayed",
+        "Ahmed Khattab",
+        "Ahmed Mostafa",
+        "Sarah Johnson",
+        "Ahmed Mostafa",
+        "Ahmed Mostafa",
+        "Ahmed Mostafa",
+        "Ahmed Khattab",
+        "Ahmed Mostafa",
+        "Ahmed Khattab",
+        "Ahmed Mostafa"
+      ],
+      "title": " Web Developer  Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [],
+      "friend_requests": []
+    },
+    {
+      "id": "6",
+      "rule": "teacher",
+      "name": "El-Sayed",
+      "email": "el_sayed@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/128/219/219970.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 345,
+      "post_views": 395,
+      "recent": [
+        "Ahmed Mostafa"
+      ],
+      "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [],
+      "friend_requests": []
+    },
+    {
+      "id": "7",
+      "rule": "teacher",
+      "name": "Ahmed Khattab",
+      "email": "ahmed_khattab@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/128/1458/1458201.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 346,
+      "post_views": 396,
+      "recent": [
+        "Sarah Johnson",
+        "Ahmed Khattab",
+        "Ahmed Khattab",
+        "Ali Ayman",
+        "Ahmed Khattab",
+        "Michael Jackson",
+        "Carlos Rodriguez",
+        "El-Sayed",
+        "Ahmed Khattab",
+        "Ahmed Mostafa",
+        "Mohamed Hesham",
+        "El-Sayed",
+        "Ali Ayman",
+        "Ahmed Mostafa",
+        "Mohamed Ali",
+        "Sarah Johnson",
+        "Carlos Rodriguez",
+        "Michael Jackson"
+      ],
+      "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [],
+      "friend_requests": []
+    },
+    {
+      "id": "8",
+      "rule": "teacher",
+      "name": "Ahmed Mostafa",
+      "email": "ahmed_mostafa@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/128/428/428933.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 351,
+      "post_views": 401,
+      "recent": [
+        "El-Sayed",
+        "El-Sayed",
+        "Ali Ayman",
+        "Ali Ayman"
+      ],
+      "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [],
+      "friend_requests": []
+    },
+    {
+      "id": "9",
+      "rule": "teacher",
+      "name": "Mohamed Hesham",
+      "email": "mohamed_hesham@gmail.com",
+      "user_img": "https://cdn-icons-png.flaticon.com/128/1999/1999625.png",
+      "user_bg_img": "https://media.istockphoto.com/id/1208738316/photo/abstract-geometric-network-polygon-globe-graphic-background.webp?b=1&s=170667a&w=0&k=20&c=Ewa2JDeA8E9k9ch3IYWkSYdEkTEhyaMNfNLkClag-j4=",
+      "profile_views": 343,
+      "post_views": 393,
+      "recent": [],
+      "title": " Web Developer At Meta Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, expedita!",
+      "about": "Diversity enriches our world by bringing together people with unique backgrounds, experiences, and perspectives. Embracing diversity fosters creativity and innovation, as different viewpoints can lead to new ideas and solutions. It also promotes inclusivity and equality, ensuring that everyone has a voice and is valued for who they are. In a globalized world, understanding and respecting cultural differences are essential for peaceful coexistence and cooperation. By celebrating diversity, we can create a more harmonious and interconnected world where everyone can thrive.",
+      "friend_list": [],
+      "friend_requests": []
+    }
+  ]
+}

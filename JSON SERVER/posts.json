@@ -1,0 +1,474 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "rule": "teacher",
+      "email": "mohamed_ali@gmail.com",
+      "posts": [
+        {
+          "id": "1/1",
+          "post_content": "Any people here?",
+          "time": "3/8/2024 - 11:55:30 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "👍"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "😡"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "1",
+              "user_name": "Mohamed Ali",
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Hello there (M.A)!!"
+            },
+            {
+              "id": "3",
+              "user_id": "2",
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "time": "3/15/2024 - 1:11:57 AM",
+              "comment": "I am here!! :)"
+            }
+          ]
+        },
+        {
+          "id": "1/2",
+          "post_content": "hay!!",
+          "time": "3/8/2024 - 11:55:30 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "👍"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "😂"
+            }
+          ],
+          "comments": [
+            {
+              "id": "3",
+              "user_id": "2",
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "time": "3/16/2024 - 1:49:01 AM",
+              "comment": "good job!"
+            }
+          ]
+        },
+        {
+          "id": "1/3",
+          "post_content": "I am Mohamed Ali!!",
+          "time": "3/9/2024 - 10:56:10 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "😂"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "💖"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "2",
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "time": "3/26/2024 - 8:23:44 AM",
+              "comment": "And I am Sarah Johnson !!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "rule": "teacher",
+      "email": "sarah_johnson@gmail.com",
+      "posts": [
+        {
+          "id": "2/1",
+          "post_content": "I like to have a new teacher",
+          "time": "3/8/2024 - 11:55:30 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "😂"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "👍"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "💖"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "3",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Oh what the greatest (C.R)"
+            },
+            {
+              "id": "2",
+              "user_id": "1",
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Wooooow (M.A)"
+            },
+            {
+              "id": "3",
+              "user_id": "2",
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "time": "3/15/2024 - 2:11:27 AM",
+              "comment": "Not a problem."
+            }
+          ]
+        },
+        {
+          "id": "2/2",
+          "post_content": "Hello there",
+          "time": "3/11/2024 - 4:55:49 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "😍"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "😡"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "😍"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "1",
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Oh what the greatest (M.A)"
+            },
+            {
+              "id": "2",
+              "user_id": "1",
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Nice. (M.A)"
+            },
+            {
+              "id": "3",
+              "user_id": "2",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "time": "3/13/2024 - 5:07:32 PM",
+              "comment": "hi"
+            }
+          ]
+        },
+        {
+          "id": "2/5",
+          "post_content": "how are you?",
+          "time": "3/14/2024 - 3:52:49 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "👏"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "💖"
+            }
+          ],
+          "comments": [
+            {
+              "id": "2",
+              "user_id": "2",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "time": "3/14/2024 - 3:57:00 PM",
+              "comment": "good!!"
+            }
+          ]
+        },
+        {
+          "id": "2/6",
+          "post_content": "hello my love , Ahmed Khattab is here?",
+          "time": "3/15/2024 - 2:12:00 AM",
+          "reactions": [
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "😂"
+            },
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "😍"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "3",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "time": "3/15/2024 - 2:12:52 AM",
+              "comment": "No Ahmed is not here :\\ ,but Carlos is here :)"
+            },
+            {
+              "id": "2",
+              "user_id": "1",
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "time": "3/15/2024 - 2:13:21 AM",
+              "comment": "Yes ,I am here :) !! "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "rule": "teacher",
+      "name": "Carlos Rodriguez",
+      "email": "carlos_rodriguez@gmail.com",
+      "posts": [
+        {
+          "id": "3/2",
+          "post_content": "Really",
+          "time": "3/8/2024 - 11:55:30 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "😍"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+              "user_name": "Sarah Johnson",
+              "reaction": "😡"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "2",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "time": "3/14/2024 - 11:49:06 PM",
+              "comment": "why are you here?"
+            }
+          ]
+        },
+        {
+          "id": "3/3",
+          "post_content": "is there any one here?",
+          "time": "3/10/2024 - 6:04:28 AM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "💖"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "😍"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "reaction": "👏"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "1",
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Why not! (M.A)"
+            },
+            {
+              "id": "3",
+              "user_id": "2",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "time": "3/14/2024 - 9:55:41 PM",
+              "comment": "who are you?"
+            }
+          ]
+        },
+        {
+          "id": "3/4",
+          "post_content": "hello",
+          "time": "3/10/2024 - 2:05:29 PM",
+          "reactions": [
+            {
+              "user_id": 1,
+              "user_img": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+              "user_name": "Mohamed Ali",
+              "reaction": "👍"
+            },
+            {
+              "user_id": 3,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+              "user_name": "Carlos Rodriguez",
+              "reaction": "👏"
+            },
+            {
+              "user_id": 2,
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "reaction": "😍"
+            }
+          ],
+          "comments": [
+            {
+              "id": "1",
+              "user_id": "2",
+              "user_img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+              "user_name": "Sarah Johnson",
+              "time": "3/8/2024 - 11:55:30 PM",
+              "comment": "Thats cool (S.J)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "rule": "teacher",
+      "name": "Michael Jackson",
+      "email": "michel_jackson@gmail.com",
+      "posts": []
+    },
+    {
+      "id": "5",
+      "rule": "teacher",
+      "name": "Ali Ayman",
+      "email": "ali_ayman@gmail.com",
+      "posts": []
+    },
+    {
+      "id": "6",
+      "rule": "teacher",
+      "name": "El-Sayed",
+      "email": "el_sayed@gmail.com",
+      "posts": []
+    },
+    {
+      "id": "7",
+      "rule": "teacher",
+      "name": "Ahmed Khattab",
+      "email": "ahmed_khattab@gmail.com",
+      "posts": []
+    },
+    {
+      "id": "8",
+      "rule": "teacher",
+      "name": "Ahmed Mostafa",
+      "email": "ahmed_mostafa@gmail.com",
+      "posts": []
+    },
+    {
+      "id": "9",
+      "rule": "teacher",
+      "name": "Mohamed Hesham",
+      "email": "mohamed_hesham@gmail.com",
+      "posts": []
+    }
+  ]
+}
