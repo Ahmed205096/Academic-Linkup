@@ -1,3 +1,15 @@
+![1](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/ac9975b4-789e-4d74-ae3a-a091da6aca77)
+![2](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/b2adf096-9d25-4c71-a21b-a3134030c994)
+![3](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/70b34fa8-3d0f-4ead-8d68-9e870d1a16fc)
+![4](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/f449578d-6be0-42c4-8b4c-2808122552b3)
+![5](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/6bb3d8d4-7176-4a8c-8037-4c6932fe6fc4)
+![6](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/bdc1b504-2fa1-4cd5-befc-36fe9cb7507e)
+![7](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/87685b71-4e9b-48f0-9d21-6807b3d9c58e)
+![PC](https://github.com/Ahmed205096/Academic-Linkup/assets/143497084/e4dac3e6-ee14-42fe-82f4-15db03a72ba1)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
