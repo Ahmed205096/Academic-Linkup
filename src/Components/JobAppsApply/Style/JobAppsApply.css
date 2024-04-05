@@ -1,0 +1,107 @@
+.job-app-section-outer-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 130%;
+  margin-left: 40px;
+  padding: 10px;
+}
+
+.job-app-section-inner-container {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.job-app-section-connections {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+  height: 290px;
+  background-color: rgba(255, 255, 255, 0.466);
+  border-radius: 20px;
+  border: 1px solid gray;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.job-app-section-bg-img img {
+  width: 100%;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 20px 20px 0 0;
+}
+
+.job-app-section-all-user-data {
+  position: relative;
+  top: -60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.job-app-section-profile-img img {
+  width: 100px;
+}
+
+.job-app-section-user-name {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.job-app-section-user-info {
+  font-size: 10px;
+  color: gray;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.job-app-section-follow-button {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.job-app-section-follow-button button {
+  padding: 0 10px;
+  width: 90%;
+  height: 35px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  background-color: rgba(255, 255, 255, 0.466);
+  font-size: 15px;
+  font-weight: 600;
+  color: gray;
+  cursor: pointer;
+}
+
+.job-app-section-follow-button button:hover {
+  border-top: 3px solid gray;
+  background-color: rgba(173, 216, 230, 0.233);
+}
+
+@media (max-width: 800px) {
+  .job-app-section-outer-container {
+    margin-left: 4px;
+  }
+
+  .job-app-section-connections {
+    width: 140px;
+    height: 280px;
+  }
+  .job-app-section-profile-img img {
+    width: 80px;
+  }
+  .job-app-section-inner-container {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .job-app-section-follow-button button {
+    height: 30px;
+    font-size: 12px;
+  }
+}

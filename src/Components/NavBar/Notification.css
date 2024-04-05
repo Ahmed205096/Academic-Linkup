@@ -1,0 +1,65 @@
+.outer-container-notification {
+  position: fixed;
+  width: 100%;
+  top: 63px;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+}
+
+.notification-container {
+  width: 300px;
+  height: fit-content;
+  max-height: 400px;
+  overflow-y: scroll;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.notification-user-image img {
+  width: 30px;
+  margin-right: 6px;
+}
+
+.notification-user-info {
+  display: flex;
+  align-items: center;
+}
+
+.notification-user-name {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.notification-user-title {
+  font-size: 10px;
+  color: gray;
+  margin-left: 35px;
+  margin-bottom: 20px;
+}
+
+.notification-add-friend button {
+  border: none;
+  background-color: transparent;
+  width: fit-content;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.notification-add-friend button:hover {
+  font-size: 20px;
+}
+
+.notification-user-info-outer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.notification-user-info a {
+  color: black;
+  display: flex;
+}

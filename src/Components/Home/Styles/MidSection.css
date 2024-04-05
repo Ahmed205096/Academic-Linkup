@@ -1,0 +1,401 @@
+.outer-mid-section-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 80%;
+}
+
+/* Inner Container */
+.inner-mid-section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Create Post Container */
+.mid-section-create-post-container {
+  display: flex;
+  width: inherit;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.707);
+  padding: 5px 15px;
+
+  /* border: 1px solid gray; */
+  /* box-shadow: 0 0 3px gray; */
+}
+
+/* Teaxtarea */
+.mid-section-create-post-container textarea {
+  width: 100%;
+  padding: 10px 40px;
+  border: 1px solid #ccc;
+  background-color: rgba(255, 255, 255, 0.707);
+  border-radius: 20px;
+  margin-bottom: 10px;
+  resize: none;
+  text-align: justify;
+  font-size: 15px;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+/* User Image In The Create Post Container */
+.mid-section-create-post-container-user-img {
+  display: flex;
+  width: 100%;
+}
+
+/* Image That Appear In The Create Post Container */
+.mid-section-create-post-container-user-img img {
+  width: 25px;
+  position: relative;
+  left: 10px;
+  top: 32px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+/* Create Post Buttons Container */
+.mid-section-create-post-btns-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Create Post Buttons */
+.mid-section-create-post-btns-container label {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  font-size: 15px;
+  background-color: rgba(255, 255, 255, 0.707);
+  margin-top: -5px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+/* Upload Photo Button */
+.mid-section-photo-btn {
+  border-radius: 0 0 0 0;
+}
+
+/* Post Button */
+.mid-section-create-post-btns-container .mid-section-post-btn {
+  background-color: blue;
+  border: none;
+  color: white;
+  border-radius: 0 20px 20px 0;
+}
+
+/* Hover Create Post Buttons */
+.mid-section-create-post-btns-container label:hover {
+  background-color: black;
+  color: white;
+  transition-duration: 1s;
+}
+
+@media (min-width: 699px) {
+  .right-section-outer-container {
+    flex-basis: 55%;
+  }
+  /* Inner Container */
+  .inner-mid-section-container {
+    width: 90%;
+  }
+  .mid-section-create-post-container {
+    border-radius: 20px 20px 0 0;
+  }
+  .mid-section-photo-btn {
+    border-radius: 20px 0 0 0px;
+  }
+}
+
+/* --------------Post------------ */
+
+.all-posts-container {
+  display: flex;
+  width: inherit;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mide-section-posts-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.707);
+  padding: 10px 15px;
+  /* border: 1px solid gray; */
+  /* box-shadow: 0 0 3px gray; */
+
+  margin-top: 10px;
+}
+
+.mide-section-posts-container-post {
+  width: 100%;
+}
+
+.mide-section-posts-container-post-user-img img {
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.midel-section-posts-container-post-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.midel-section-posts-container-post-heading span {
+  display: flex;
+}
+
+.mide-section--posts-container-post-user-name {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.mide-section--posts-container-post-user-title {
+  font-size: 10px;
+  font-weight: 500;
+  color: gray;
+}
+
+.mide-section--posts-container-post-time {
+  font-size: 10px;
+  font-weight: 500;
+  color: gray;
+}
+
+.mide-section-posts-container-post-text-body {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.mide-section-posts-container-post-img-body {
+  width: inherit;
+}
+
+.mide-section-posts-container-post-img-body img {
+  width: inherit;
+}
+
+.mide-section-posts-container-post-reactions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: gray;
+}
+
+.mide-section-posts-container-post-btns {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid gainsboro;
+  border-top: 1px solid gainsboro;
+  padding: 5px 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+.mide-section-posts-container-post-btns button {
+  background-color: transparent;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+@media (max-width: 699px) {
+  .mid-section-create-post-btns-container label {
+    font-size: 13px;
+  }
+  .mid-section-create-post-btns-container label:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 1s;
+  }
+
+  .mid-section-create-post-btns-container .mid-section-post-btn:hover {
+    background-color: blue;
+    color: white;
+  }
+}
+
+/*  Comments */
+
+.comment-section-outer-container {
+  display: flex;
+  flex-direction: column;
+  width: 97%;
+  animation-duration: 1s;
+}
+
+.all-comments-container {
+  width: inherit;
+}
+
+.comments-section-container {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin-top: 10px;
+  box-shadow: 0 0 4px black;
+  padding: 10px;
+  border-radius: 5px;
+  animation-duration: 2s;
+  animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes DistroyComment {
+  100% {
+    width: 0;
+    opacity: 0;
+  }
+}
+
+.comment {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.comment span {
+  display: flex;
+  align-items: center;
+}
+
+.comment-user-img img {
+  width: 30px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.comment-user-name {
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.comment-time {
+  font-size: 10px;
+  font-weight: 500;
+  color: gray;
+}
+
+.comment-body {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+/* Create Comment */
+
+.mide-section-posts-container-create-comment {
+  display: flex;
+  width: inherit;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 15px;
+}
+
+.mide-section-posts-container-create-comment textarea {
+  width: 100%;
+  padding: 5px 40px;
+  height: 35px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  /* border-radius: 10px; */
+  margin-bottom: 10px;
+  resize: none;
+  text-align: justify;
+  font-size: 15px;
+  font-weight: 500;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.mide-section-posts-container-create-comment button {
+  background-color: transparent;
+  border: none;
+  position: relative;
+  right: 30px;
+  bottom: 5px;
+  cursor: pointer;
+}
+
+.mid-section-post-filter {
+  background-color: rgba(0, 0, 0, 0.623);
+  animation-duration: 1s;
+  animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  animation-name: FilterAnimationOpen;
+  border-radius: 10px;
+}
+
+.mid-section-post-filter,
+.mid-section-post-filter-text {
+  display: flex;
+  justify-content: right;
+  height: 40px;
+  width: inherit;
+}
+
+.mid-section-post-filter-text {
+  width: inherit;
+  margin-right: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.mid-section-post-filter button {
+  cursor: pointer;
+  width: 100px;
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+  font-size: 12px;
+  color: white;
+}
+
+.mid-section-post-filter button:hover {
+  color: gold;
+  transition-duration: 0.7s;
+}
+
+@keyframes FilterAnimationOpen {
+  0% {
+    height: 0;
+  }
+}
+
+@keyframes FilterAnimationClose {
+  100% {
+    height: 0;
+  }
+}
+
+/* Reactions */
+.mid-section-reactions button {
+  font-size: 20px;
+  transition-duration: 0s;
+}
+
+.mid-section-reactions button:hover {
+  font-size: 27px;
+  transition-duration: 0s;
+}

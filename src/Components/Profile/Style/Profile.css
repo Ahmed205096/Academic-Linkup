@@ -1,0 +1,319 @@
+.profile-outer-container {
+  display: flex;
+  flex-basis: 130%;
+  flex-direction: column;
+}
+
+/* Start Styling The Upper Section */
+.profile-upper-section {
+  background-color: white;
+  height: 600px;
+  border-radius: 20px;
+}
+
+.profile-bg-container img {
+  width: 100%;
+  height: 350px;
+  border-radius: 20px 20px 0 0;
+  object-fit: cover;
+}
+
+.profile-user-info {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: -100px;
+  justify-content: start;
+  padding: 20px;
+}
+
+.profile-user-img-container img {
+  width: 150px;
+  position: relative;
+  border-radius: 50% !important;
+  border: 2px solid white;
+}
+
+.profile-user-name {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.profile-user-about {
+  font-size: 11px;
+  color: #686666;
+  font-weight: 700;
+}
+
+.profile-btns {
+  display: flex;
+  justify-content: start;
+  width: 100%;
+}
+
+.profile-spacer1 {
+  height: 50px;
+}
+
+.profile-connect-btn,
+.profile-message-btn {
+  width: 100px;
+  color: white;
+  border: none;
+  display: flex;
+  justify-content: center;
+  height: 27px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.profile-connect-btn:hover,
+.profile-message-btn:hover {
+  opacity: 0.7;
+}
+
+.profile-connect-btn {
+  background-color: blue;
+  margin-right: 10px;
+}
+.profile-message-btn {
+  background-color: #4c4c4c;
+  margin-right: 10px;
+}
+
+/* End Styling The Upper Section */
+
+/* Start Styling The About Section */
+.profile-about-section {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.profile-about-section h3 {
+  text-decoration: underline;
+}
+
+.profile-about-section p {
+  font-size: 12px;
+  text-align: justify;
+  font-weight: 600;
+}
+/* End Styling The About Section */
+
+/* Start Styling The Experiance Section */
+.profile-experiance-section {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.profile-experiance-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-experiance-title {
+  text-decoration: underline;
+}
+
+.experiance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.profile-experiance-image img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.profile-experiance-body p {
+  font-size: 12px;
+  text-align: justify;
+}
+
+/* End Styling The Experiance Section */
+
+/* Start Styling The Education Section */
+.profile-education-section {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.profile-education-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-education-title {
+  text-decoration: underline;
+}
+
+.education {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.profile-education-image img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.profile-education-body p {
+  font-size: 12px;
+  text-align: justify;
+}
+
+/* End Styling The Education Section */
+
+/* Start Styling The Skills Section */
+.profile-skills-section {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-skills-section h3 {
+  text-decoration: underline;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill {
+  border: 2px solid gray;
+  border-radius: 20px;
+  padding: 2px 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+.skill:hover {
+  background-color: #4c4c4c;
+  color: white;
+  transition-duration: 1s;
+}
+
+/* End Styling The Skills Section */
+
+/* Start Styling The Language Section */
+.profile-language-section {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-language-section h3 {
+  text-decoration: underline;
+}
+
+.language-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.language {
+  border: 2px solid gray;
+  border-radius: 20px;
+  padding: 2px 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+.language:hover {
+  background-color: #4c4c4c;
+  color: white;
+  transition-duration: 1s;
+}
+
+/* End Styling The Language Section */
+
+.profile-experiance-end,
+.profile-education-end {
+  height: 1px;
+  width: 100%;
+  background-color: gray;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.profile-user-replaced-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0 10px;
+  border-radius: 3px;
+  background-color: rgb(128, 128, 128);
+  color: white;
+}
+
+/* Start Posts Section Styling */
+.profile-posts-section {
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.profile-posts-section h3 {
+  margin-left: 20px;
+  height: 20px;
+  text-decoration: underline;
+}
+
+.profile-posts-section-inner {
+  margin-top: 10px;
+  width: 94%;
+  max-height: 500px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
+/* End Posts Section Styling */
+
+@media (min-width: 800px) {
+  .profile-outer-container {
+    margin-right: 20px;
+  }
+  .profile-user-replaced-buttons {
+    width: 40%;
+  }
+  .profile-posts-section-inner {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  .profile-bg-container img {
+    margin-top: 10px;
+  }
+  .profile-user-replaced-buttons {
+    width: 95%;
+  }
+  .profile-posts-section-inner {
+    padding-right: 20px;
+  }
+}

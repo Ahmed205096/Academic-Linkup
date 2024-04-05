@@ -1,0 +1,131 @@
+.nav-outer-container {
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+.nav-inner-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+
+.nav-logo-container img {
+  width: 40px;
+}
+
+.nav-user-img-container img {
+  width: 30px;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-home::after,
+.nav-network::after,
+.nav-message::after,
+.nav-notification::after,
+.nav-search::after {
+  content: "";
+  height: 2px;
+  background-color: white;
+  position: absolute;
+  margin-top: 35px;
+  width: 0;
+  transition-duration: 0.5s;
+}
+
+.nav-links-container {
+  width: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+@keyframes NavItemsHover {
+  0% {
+    width: 0;
+  }
+}
+
+@keyframes NavItemsHoverReverse {
+  100% {
+    width: 0;
+    opacity: 0;
+  }
+}
+
+@media (min-width: 699px) {
+  .nav-home:hover::after,
+  .nav-network:hover::after,
+  .nav-message:hover::after,
+  .nav-notification:hover::after,
+  .nav-search:hover::after {
+    animation-name: NavItemsHover;
+    animation-duration: 1s;
+    transition-duration: 2s;
+    animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  }
+  .nav-home:hover::after {
+    width: 50px;
+    margin-left: -50px;
+  }
+  .nav-network:hover::after {
+    width: 80px;
+    margin-left: -80px;
+  }
+  .nav-message:hover::after {
+    width: 70px;
+    margin-left: -70px;
+  }
+  .nav-notification:hover::after {
+    margin-left: -70px;
+    width: 70px;
+  }
+  .nav-search:hover::after {
+    width: 50px;
+    margin-left: -45px;
+  }
+}
+
+@media (min-width: 800px) {
+  .nav-inner-container {
+    padding: 0 100px;
+  }
+}
+
+@media (max-width: 698px) {
+  .nav-outer-container {
+    bottom: 0;
+  }
+
+  .nav-inner-container {
+    padding: 0 10px;
+  }
+
+  .nav-links-container {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+  }
+
+  .nav-links-container {
+    width: 70%;
+  }
+
+  .nav-items-name {
+    display: none;
+  }
+}

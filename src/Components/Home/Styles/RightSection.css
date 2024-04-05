@@ -1,0 +1,128 @@
+.right-section-outer-container {
+  background-color: white;
+  height: fit-content;
+  position: sticky;
+  border-radius: 20px;
+}
+
+@media (min-width: 699px) {
+  .right-section-outer-container {
+    flex-basis: 40%;
+    top: 70px;
+  }
+}
+
+/* Title */
+.right-section-title {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Spacer */
+.right-section-separator1 {
+  height: 2px;
+  background-color: #ecece5;
+  margin-bottom: 10px;
+}
+
+/* Person Img */
+.right-section-recommended-person img {
+  width: 30px;
+}
+
+/* Ad Img */
+.right-section-ad-image img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+/* Recommendation List Container */
+.right-section-recommendation-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Recommended Person */
+.right-section-recommended-person {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 5px 15px;
+}
+
+/* Recommended Person Span */
+.right-section-recommended-person span {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+}
+
+/* Color The Even Persons */
+.right-section-recommendation-list :nth-child(even) {
+  background-color: rgb(216, 214, 214);
+  box-sizing: border-box;
+}
+
+.right-section-recommendation-list :nth-child(odd) {
+  box-sizing: border-box;
+}
+
+/* Recommended Person Button And Ad Button */
+.right-section-recommended-person button,
+.right-section-btn-ad button {
+  background-color: transparent;
+  border: 1px solid blue;
+  color: blue;
+  border-radius: 20px;
+  padding: 2px 10px;
+  font-size: 10px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+/* Ad Button */
+.right-section-btn-ad button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+/* Recommended Person Button And Ad Button */
+.right-section-recommended-person button:hover,
+.right-section-btn-ad button:hover {
+  background-color: blue;
+  color: white;
+  transition-duration: 1s;
+}
+
+/* Spacer Before Ad */
+.right-section-separator2 {
+  margin-top: 10px;
+  height: 10px;
+  background-color: #ecece5;
+}
+
+/* Ad Section */
+.right-section-ad {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  padding: 5px 15px;
+  font-size: 12px;
+}
+
+/* Ad Title */
+.right-section-ad-title {
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  color: gray;
+}

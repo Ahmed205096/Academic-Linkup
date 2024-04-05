@@ -1,0 +1,120 @@
+.outer-left-section-container {
+  background-color: white;
+  height: fit-content;
+  position: sticky;
+  border-radius: 20px;
+}
+
+@media (min-width: 699px) {
+  .outer-left-section-container {
+    flex-basis: 40%;
+    top: 70px;
+  }
+}
+
+/* Background Image */
+.bg-left-section img {
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+}
+
+/* Profile Image Container */
+.left-section-user-img {
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: -30px;
+  padding: 0 10px;
+}
+
+/* Profile Image */
+.left-section-user-img img {
+  width: 50px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+/* User Name */
+.left-section-user-name {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+/* All Section After Profile Image Until User Info */
+.left-section-user-data {
+  position: relative;
+  top: -30px;
+  padding: 5px 10px;
+}
+
+/* User Title */
+.left-section-user-title {
+  font-size: 10px;
+  color: #686666;
+  font-weight: 700;
+}
+
+/* User Info */
+.left-section-user-info {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Style The Info Items */
+.left-section-user-info .left-section-user-info-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 10px;
+  font-weight: 700;
+  color: #686666;
+}
+
+/* Style the Numbers Of The Items */
+.left-section-user-info .left-section-user-info-item span {
+  color: blue;
+}
+
+/* Separator Befor My Items */
+.left-section-separetor1 {
+  margin-top: 10px;
+  height: 2px;
+  background-color: #ecece5;
+}
+
+/* My Items */
+.left-section-my-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Separator After My Items */
+.left-section-separetor2 {
+  margin-top: 10px;
+  height: 10px;
+  background-color: #ecece5;
+}
+
+/* Recent Section */
+.left-section-recent {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 10px;
+  color: #686666;
+  padding: 10px;
+  font-weight: 700;
+}
+
+/* Recent */
+.left-section-recent-value {
+  font-size: 15px;
+  text-transform: uppercase;
+}
